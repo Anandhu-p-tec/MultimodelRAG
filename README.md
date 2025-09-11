@@ -1,4 +1,4 @@
-# 📄 Multimodal RAG — Windows Ready (Hugging Face Powered)
+# 📄 Multimodal RAG (Hugging Face Powered)
 
 A **production-grade Retrieval-Augmented Generation (RAG) system** that ingests PDFs (text, tables, images), summarizes and embeds them into a **Chroma vector database**, and enables **multimodal question answering** via Hugging Face models.  
 
