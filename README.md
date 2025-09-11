@@ -5,9 +5,11 @@ A **production-grade Retrieval-Augmented Generation (RAG) system** that ingests 
 Built with **Windows compatibility in mind**, it works seamlessly with PDFs containing **text, tables, and images**, and offers both a **Streamlit UI** and **CLI scripts** for interaction.
 
 ---
+
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/abcd1234/0.jpg)](https://www.youtube.com/watch?v=abcd1234)
+[![Watch the video](https://img.youtube.com/vi/WpaISK055C4/0.jpg)](https://youtu.be/WpaISK055C4)
+
 
 
 ## ✨ Key Highlights
