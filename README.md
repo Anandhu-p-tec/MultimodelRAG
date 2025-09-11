@@ -153,6 +153,16 @@ Add evaluation metrics (retrieval recall, answer faithfulness).
 Support hybrid retrieval (sparse + dense).
 
 Extend UI with file history and visualization of embeddings.
+
+### 👨‍💻 Author
+
+Built with ❤️ by Anandhu p
+
+💼 AI/ML Engineer | Data Science Enthusiast
+
+🌐 Portfolio: [https://github.com/Anandhu-p-tec]
+
+📧 Contact: [anandhupadmanabhank@gmail.com]
    
 
   
