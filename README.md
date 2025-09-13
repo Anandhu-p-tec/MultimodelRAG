@@ -162,7 +162,7 @@ Extend UI with file history and visualization of embeddings.
 
 ### 👨‍💻 Author
 
-Built with ❤️ by Anandhu p
+Built  by Anandhu p
 
 💼 AI/ML Engineer | Data Science Enthusiast
 
